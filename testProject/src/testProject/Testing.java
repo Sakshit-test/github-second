@@ -2,5 +2,5 @@ package testProject;
 
 public class Testing {
 
-	private int id;
+	private String name;
 }
